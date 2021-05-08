@@ -1,6 +1,8 @@
 Hello I'm a test
 I'm a second test 
 We are doing an activity
-Test 1
+<<<<<<< HEAD
+=======
+We're solving a problem
 
 
